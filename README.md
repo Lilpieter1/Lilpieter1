@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pieter</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Aabeco Telecom CRM Software](https://aabecotelecom.nl)
+- 🔭 I’m currently working on [Transferbaas Conntect](https://transferbaas.nl)
 
-- 🌱 I’m currently learning **Deno 2.0**
+- 🌱 I’m currently learning **Building future proof software with Next.js**
 
 - 👨‍💻 All of my projects are available at [https://lptrdigital.nl](https://lptrdigital.nl)
 
-- 💬 Ask me about **Django, Tailwind Courses**
+- 💬 Ask me about **Django, Next.js, SaaS Software**
 
 - 📫 How to reach me **info@lptrdigital.nl**
 
