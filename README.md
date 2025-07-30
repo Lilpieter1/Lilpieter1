@@ -1,27 +1,30 @@
-## Hi there 👋
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pieter">
+    <img alt="Hi, I'm Pieter" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pieter">
+  </picture>
+</h1>
 
-**I'm Lilpieter1!** Welcome to my corner of GitHub.
-
-<!--
-**Lilpieter1/Lilpieter1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-### About Me:
-
-*   🔭 I’m currently working on exciting new projects that feature a buggy mess
-*   🌱 I’m constantly learning to improve my code, pls don't judge me.
-*   🤔 I’m also working on a revolutionary CS Agent system. Which will be introduced soon!
-*   📫 How to reach me: ezra@leadpointer.app
-*   ⚡ Fun fact: I once spent 3 hours debugging a missing comma.
+<p align="center">
+  <a href="mailto:ezra@leadpointer.app">ezra@leadpointer.app</a>
+  <!--&nbsp;&nbsp;·&nbsp;&nbsp;-->
+</p>
 
 ---
 
-### My GitHub Stats:
+### Currently
 
-(Yes, I know, I've contributed what might be considered "bad code" X times already this year! 😂 But hey, we all start somewhere, right?)
+- **Building** Customer-support AI agents with emotional intelligence 
+- **Optimizing** LangGraph.js + OpenAI pipelines for sub-200 ms response times  
+- **Learning** how to make machines sound less like machines
 
-[![Lilpieter1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lilpieter1&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
 
-[![Lilpieter1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilpieter1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilpieter1&layout=compact&theme=dark&hide_border=true">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilpieter1&layout=compact&theme=default&hide_border=true">
+  </picture>
+</p>
 
-[![Lilpieter1's Streak Stats](https://github-readme-stats.vercel.app/api/streak?user=Lilpieter1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ──────────────────────────────────────────────────────────────── -->
